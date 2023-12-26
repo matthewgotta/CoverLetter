@@ -1,4 +1,4 @@
-# CoverLetter
+# Cover Letter
 To those in charge of hiring at Pulsara,
 
 I was employed at Zoot Enterprises as a Microservices Developer and was working with the Core Software Integration team. My time at Zoot has given me extensive experience with full stack development, in particular I focused on the automation of deployments. I have authored several of these automation projects, deployed with Ansible playbooks and Jenkins, to seamlessly integrate software to servers with a single click. Working at Zoot required me to develop with their own proprietary front end software for clients, procuring data for them and presenting it in an intuitive format. I was also responsible for a CSS library, and have developed additional CSS classes for our products in conjunction with modern browser technologies. Not only do I have experience developing across platforms, but have also mentored employees from across teams on how to build cross platform products. I have worked across multiple platforms as well: From configuring connections to Europe and mapping their data to our front end to formatting for client specific requirements to comply with their policies and standards.
